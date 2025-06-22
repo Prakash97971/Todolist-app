@@ -99,4 +99,4 @@ iTask provides a simple and responsive UI for managing todos. It features a Node
 Prakash Shaw  
 [GitHub Profile](https://github.com/Prakash97971)
 
-![App Screenshot](src/assets/Screenshot2025-06-23015350.png)
+![App Screenshot](TODOLIST_REACT/assets/Screenshot%202025-06-23%20005931.png)
